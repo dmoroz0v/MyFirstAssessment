@@ -1,0 +1,9 @@
+/* Localized versions of Info.plist keys */
+
+tab_bar_item_left_label="title 1";
+tab_bar_item_right_label="title 2";
+baikal_at_dawn="Baikal at dawn";
+baikal_at_sunset="Baikal at sunset";
+back="Back";
+bronze_dragon="Bronze dragon";
+chinese_wall="Chinese Wall";
